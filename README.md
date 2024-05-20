@@ -1,0 +1,1 @@
+It is a number guessing game in which you will get the 5 trials to guess a randomly generated number, you will get the hints after your each wrong guess if you correctly gues it in 5 trials you win the game.
